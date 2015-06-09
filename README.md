@@ -1,7 +1,7 @@
 # FuzzyliteAndSwift
 FuzzyLite Integration with Swift
 
-### The reference source for the FuzzyLite library has been included from http://www.fuzzylite.com/downloads/. The FuzzyLite library was authored by [Juan Rada-Vilela](http://www.fuzzylite.com/jcrada), Ph.D. and the public C++ github repository is available at https://github.com/fuzzylite/fuzzylite.
+## The reference source for the FuzzyLite library has been included from http://www.fuzzylite.com/downloads/. The FuzzyLite library was authored by [Juan Rada-Vilela](http://www.fuzzylite.com/jcrada), Ph.D. and the public C++ github repository is available at https://github.com/fuzzylite/fuzzylite.
 
 1. Create new single-view iOS application project (sample project name is FuzzyLiteTemplate)
 2. Copy entire fuzzylite/ directory into the Xcode project -> Make sure to select Create groups in the Add Dialog
